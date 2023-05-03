@@ -1,212 +1,367 @@
 [
     {
         "chef_id": 1,
-        "chef_picture": "",
-        "chef_name": "",
-        "experience": "2 year",
-        "numberOfRecipes": 3,
-        "likes": 433,
-        "chef_bio": "",
-        "recipes": [
-            {
-                "recipe_name": "",
-                "ingredients": [],
-                "coking_methood": "",
-                "rating": 4
-            },
-            {
-                "recipe_name": "",
-                "ingredients": "",
-                "coking_methood": "",
-                "rating": 4
-            },
-            {
-                "recipe_name": "",
-                "ingredients": "",
-                "coking_methood": "",
-                "rating": 4
-            }
-        ]
-    },
-    {
-        "chef_id": 1,
-        "chef_picture": "https://example.com/chef1.jpg",
-        "chef_name": "Rahman Mia",
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-frl9tMFS8iBlq7LW1Spi7e0D4VAtsWvKw&usqp=CAU",
+        "chef_name": "Ayesha Siddika",
         "experience": "10 years",
-        "numberOfRecipes": 3,
-        "likes": 1050,
-        "chef_bio": "Rahman Mia is a renowned chef in Bangladesh with over 10 years of experience in cooking fish recipes. He is known for his unique blend of spices and cooking techniques that bring out the best flavors in fish.",
+        "numberOfRecipes": 5,
+        "likes": 550,
+        "chef_bio": "Ayesha Siddika is a renowned chef from Dhaka with over 10 years of experience in Bangladeshi cuisine.",
         "recipes": [
             {
-                "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
-                "ingredients": "Hilsa fish, mustard paste, turmeric, salt, green chili, mustard oil",
-                "cooking_method": "Marinate the fish with turmeric and salt. Fry the fish in mustard oil. In a separate pan, heat mustard oil, add mustard paste and green chili. Add water and salt to taste. Add the fried fish and cook until the sauce thickens.",
+                "recipe_name": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Salt"
+                ],
+                "cooking_method": "Mix the rice flour, coconut, jaggery and salt in a bowl. Add water and mix to form a thick batter. Heat a pan and pour a ladle of the batter. Cover and cook until it is cooked through. Serve hot with tea.",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Paturi (Steamed Fish)",
-                "ingredients": "Fish fillets, mustard paste, green chili, turmeric, salt, banana leaf",
-                "cooking_method": "Marinate the fish with mustard paste, turmeric, salt, and green chili. Wrap the fish in a banana leaf and steam it for 10-15 minutes.",
-                "rating": 4
+                "recipe_name": "Bhuna Khichuri",
+                "ingredients": [
+                    "Rice",
+                    "Lentils",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Chili powder",
+                    "Turmeric",
+                    "Cumin",
+                    "Coriander",
+                    "Salt",
+                    "Ghee"
+                ],
+                "cooking_method": "Wash the rice and lentils and soak for 30 minutes. In a pan, heat the ghee and fry the onions, garlic and ginger. Add the chili powder, turmeric, cumin, coriander and salt. Add the rice and lentils and saute for a few minutes. Add water and cook until done.",
+                "rating": 4.8
             },
             {
-                "recipe_name": "Chingri Malaikari (Prawn Coconut Curry)",
-                "ingredients": "Prawns, coconut milk, turmeric, cumin powder, coriander powder, chili powder, salt, sugar, ghee",
-                "cooking_method": "Fry the prawns in ghee. In a separate pan, heat ghee, add cumin powder, coriander powder, and chili powder. Add coconut milk, turmeric, salt, and sugar. Add the fried prawns and cook until the sauce thickens.",
+                "recipe_name": "Mutton Rezala",
+                "ingredients": [
+                    "Mutton",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Yogurt",
+                    "Cream",
+                    "Bay leaf",
+                    "Green cardamom",
+                    "Cinnamon",
+                    "Cloves",
+                    "Nutmeg",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the mutton in yogurt, garlic and ginger paste for an hour. In a pan, heat oil and fry onions until golden brown. Add the marinated mutton and fry until the water evaporates. Add water and cook until the meat is tender. Add cream and the spices and cook for a few minutes.",
                 "rating": 4.2
             }
         ]
     },
     {
         "chef_id": 2,
-        "chef_picture": "https://example.com/chef2.jpg",
-        "chef_name": "Kabir Ahmed",
-        "experience": "8 years",
+        "chef_picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-07/chef%20%281%29.jpg",
+        "chef_name": "Sadia Ahmed",
+        "experience": "5 years",
         "numberOfRecipes": 3,
-        "likes": 980,
-        "chef_bio": "Kabir Ahmed is a master chef in Bangladesh known for his mouth-watering meat recipes. He has won several awards for his exceptional culinary skills and is a favorite among meat lovers in the country.",
+        "likes": 350,
+        "chef_bio": "Sadia Ahmed is a passionate chef from Chittagong who loves to experiment with different spices and flavors.",
         "recipes": [
             {
-                "recipe_name": "Beef Bhuna (Spicy Beef Curry)",
-                "ingredients": "Beef, onion, garlic, ginger, tomato, chili powder, coriander powder, cumin powder, turmeric, salt, oil",
-                "cooking_method": "Heat oil in a pan. Add onion, garlic, and ginger. Add tomato and cook until soft. Add chili powder, coriander powder, cumin powder, turmeric, and salt. Add the beef and cook until tender.",
+                "recipe_name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Chili powder",
+                    "Cumin",
+                    "Coriander",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the hilsa fish with salt and turmeric. In a pan, heat oil and fry the fish until golden brown. In the same oil, add mustard paste, chili powder, cumin, coriander and salt. Add water and cook for a few minutes. Add the fried fish and cook for a few more minutes.",
                 "rating": 4.6
             },
             {
-                "recipe_name": "Mutton Kacchi Biryani (Mutton Biryani)",
-                "ingredients": "Mutton, rice, onion, garlic, ginger, chili powder, coriander powder, cumin powder, turmeric, salt, ghee",
-                "cooking_method": "Marinate the mutton with chili powder, coriander powder, cumin powder, turmeric, salt, onion, garlic, and ginger. Cook the rice with ghee and spices. Layer the rice and mutton in a pot and cook on low heat until the meat is tender.",
-                "rating": 4.8
+                "recipe_name": "Beef Tehari",
+                "ingredients": [
+                    "Beef",
+                    "Rice",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Chili powder",
+                    "Turmeric",
+                    "Cumin",
+                    "Coriander",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the beef with salt, chili powder, turmeric, cumin and coriander. In a pan, heat oil and fry onions until golden brown. Add the marinated beef and fry until the water evaporates. Add water and cook until the beef is tender. Add rice and cook until done.",
+                "rating": 4.3
             },
             {
-                "recipe_name": "Chicken Rezala (Creamy Chicken Curry)",
-                "ingredients": "Chicken, yogurt, onion, ginger, garlic, chili powder, coriander powder, cumin powder, cardamom, cinnamon, bay leaf, salt, oil",
-                "cooking_method": "Heat oil in a pan. Add onion, ginger, garlic, cardamom, cinnamon, and bay leaf. Add chili powder, coriander powder, cumin powder, and salt. Add chicken and cook until tender. Add yogurt and cook for another 5-10 minutes.",
-                "rating": 4.2
+                "recipe_name": "Fuchka",
+                "ingredients": [
+                    "Chickpeas",
+                    "Potato",
+                    "Onion",
+                    "Green chili",
+                    "Coriander",
+                    "Tamarind pulp",
+                    "Salt"
+                ],
+                "cooking_method": "Soak the chickpeas overnight and cook until soft. Boil the potatoes and chop into small pieces. In a bowl, mix the chickpeas, potatoes, onion, green chili, coriander, tamarind pulp and salt. Serve with crispy shells made of flour.",
+                "rating": 4.9
             }
         ]
     },
     {
         "chef_id": 3,
-        "chef_picture": "https://example.com/chef3.jpg",
-        "chef_name": "Farhana Ahmed",
-        "experience": "5 years",
-        "numberOfRecipes": 3,
-        "likes": 720,
-        "chef_bio": "Farhana Ahmed is a talented chef in Bangladesh specializing in vegetarian cuisine. She creates delicious and healthy recipes using fresh vegetables and traditional spices.",
+        "chef_picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
+        "chef_name": "Tahmina Rahman",
+        "experience": "8 years",
+        "numberOfRecipes": 4,
+        "likes": 450,
+        "chef_bio": "Tahmina Rahman is a creative chef from Sylhet who loves to mix traditional and modern cooking techniques.",
         "recipes": [
             {
-                "recipe_name": "Chana Masala (Chickpea Curry)",
-                "ingredients": "Chickpeas, onion, garlic, ginger, tomato, chili powder, coriander powder, cumin powder, turmeric, salt, oil",
-                "cooking_method": "Heat oil in a pan. Add onion, garlic, and ginger. Add tomato and cook until soft. Add chili powder, coriander powder, cumin powder, turmeric, and salt. Add the chickpeas and cook until tender.",
-                "rating": 4.5
+                "recipe_name": "Shatkora Beef",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Shatkora",
+                    "Coriander",
+                    "Cumin",
+                    "Turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the beef with salt, cumin, coriander and turmeric. In a pan, heat oil and fry onions until golden brown. Add garlic, ginger and green chili. Add the marinated beef and fry until the water evaporates. Add water and cook until the beef is tender. Add shatkora and cook for a few more minutes.",
+                "rating": 4.7
             },
             {
-                "recipe_name": "Aloo Gobi (Potato and Cauliflower Curry)",
-                "ingredients": "Potatoes, cauliflower, onion, garlic, ginger, chili powder, coriander powder, cumin powder, turmeric, salt, oil",
-                "cooking_method": "Heat oil in a pan. Add onion, garlic, and ginger. Add chili powder, coriander powder, cumin powder, turmeric, and salt. Add potatoes and cauliflower and cook until tender.",
-                "rating": 4.2
+                "recipe_name": "Chingri Malai Curry",
+                "ingredients": [
+                    "Shrimp",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Coconut milk",
+                    "Green chili",
+                    "Turmeric",
+                    "Coriander",
+                    "Cumin",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "In a pan, heat oil and fry onions until golden brown. Add garlic, ginger and green chili. Add the shrimp and fry for a few minutes. Add coconut milk and the spices. Cook for a few more minutes.",
+                "rating": 4.4
             },
             {
-                "recipe_name": "Begun Bhaja (Eggplant Fry)",
-                "ingredients": "Eggplant, chili powder, turmeric, salt, oil",
-                "cooking_method": "Slice the eggplant and sprinkle with chili powder, turmeric, and salt. Fry in oil until crispy.",
-                "rating": 4
+                "recipe_name": "Lau Shaker Ghonto",
+                "ingredients": [
+                    "Bottle gourd",
+                    "Spinach",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric",
+                    "Coriander",
+                    "Cumin",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Peel and chop the bottle gourd. In a pan, heat oil and fry onions until golden brown. Add garlic, ginger and green chili. Add the bottle gourd and fry for a few minutes. Add spinach and the spices. Cook for a few more minutes.",
+                "rating": 4.1
             }
         ]
     },
     {
         "chef_id": 4,
-        "chef_picture": "https://example.com/chef4.jpg",
-        "chef_name": "Abdul Karim",
-        "experience": "7 years",
-        "numberOfRecipes": 3,
-        "likes": 880,
-        "chef_bio": "Abdul Karim is a popular street food chef in Bangladesh. He creates unique and flavorful dishes using local ingredients and spices, and his food is loved by locals and tourists alike.",
+        "chef_picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/06/restaurant-chef.jpg?quality=82&strip=1",
+        "chef_name": "Rahman Khan",
+        "experience": "10 years",
+        "numberOfRecipes": 5,
+        "likes": 550,
+        "chef_bio": "Rahman Khan is a well-known chef in Dhaka who has worked in many famous restaurants.",
         "recipes": [
             {
-                "recipe_name": "Puchka (Pani Puri)",
-                "ingredients": "Semolina, all-purpose flour, salt, baking soda, tamarind pulp, chickpeas, onion, chili powder, cumin powder, coriander powder, salt, water, oil",
-                "cooking_method": "Mix semolina, all-purpose flour, salt, and baking soda. Add water and knead to form a dough. Roll out into small circles and fry in oil. Mix chickpeas, onion, chili powder, cumin powder, coriander powder, and salt. Fill the fried circles with the chickpea mixture and dip in tamarind pulp before eating.",
-                "rating": 4.7
+                "recipe_name": "Beef Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Coriander",
+                    "Cumin",
+                    "Turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the beef with salt, cumin, coriander and turmeric. In a pan, heat oil and fry onions until golden brown. Add garlic, ginger and green chili. Add the marinated beef and fry until the water evaporates. Add water and cook until the beef is tender. Garnish with coriander.",
+                "rating": 4.8
             },
             {
-                "recipe_name": "Fuchka (Panipuri)",
-                "ingredients": "Semolina, all-purpose flour, salt, baking soda, tamarind pulp, chickpeas, onion, chili powder, cumin powder, coriander powder, salt, water, oil",
-                "cooking_method": "Mix semolina, all-purpose flour, salt, and baking soda. Add water and knead to form a dough. Roll out into small circles and fry in oil. Mix chickpeas, onion, chili powder, cumin powder, coriander powder, and salt. Fill the fried circles with the chickpea mixture and dip in tamarind pulp before eating.",
+                "recipe_name": "Chitol Macher Muitha",
+                "ingredients": [
+                    "Chitol fish",
+                    "Potato",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Coriander",
+                    "Cumin",
+                    "Turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Grind chitol fish, potato, onion, garlic, ginger and green chili into a smooth paste. Add cumin, coriander, turmeric and salt. Mix well and form small balls. In a pan, heat oil and fry the balls until golden brown. Serve with mustard sauce.",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Jhal Muri (Spicy Puffed Rice)",
-                "ingredients": "Puffed rice, onion, tomato, chili powder,coriander leaves, mustard oil, salt",
-                "cooking_method": "Mix puffed rice with onion, tomato, chili powder, coriander leaves, mustard oil, and salt. Serve as a snack.",
-                "rating": 4.3
+                "recipe_name": "Roshogolla",
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Lemon juice",
+                    "Water",
+                    "Cardamom",
+                    "Rose water"
+                ],
+                "cooking_method": "Boil milk in a pot. Add lemon juice and stir until the milk curdles. Strain the curdled milk and wash with water to remove the lemon flavor. Squeeze the water out of the curdled milk and knead it into a dough. Form small balls from the dough. In a pot, mix sugar and water and bring to a boil. Add cardamom and rose water. Add the balls and cook on low heat for 20 minutes. Remove from heat and let it sit in a warm place for 6-7 hours to set. Refrigerate and serve chilled.",
+                "rating": 4.9
             }
         ]
     },
     {
         "chef_id": 5,
-        "chef_picture": "https://example.com/chef1.jpg",
-        "chef_name": "Rahman Mia",
-        "experience": "10 years",
-        "numberOfRecipes": 3,
-        "likes": 1050,
-        "chef_bio": "Rahman Mia is a renowned chef in Bangladesh with over 10 years of experience in cooking fish recipes. He is known for his unique blend of spices and cooking techniques that bring out the best flavors in fish.",
+        "chef_picture": "https://www.foodandwine.com/thmb/4voapu2oBuhv_EQlDN7L-w9WcdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/who-really-writes-chefs-recipes-1-FT-BLOG0720-f9a9155c143f44829996e0464f591834.jpg",
+        "chef_name": "Anjuman Ara",
+        "experience": "5 years",
+        "numberOfRecipes": 4,
+        "likes": 400,
+        "chef_bio": "Anjuman Ara is a home cook who specializes in traditional Bengali cuisine.",
         "recipes": [
-        {
-        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
-        "ingredients": "Hilsa fish, mustard paste, turmeric, salt, green chili, mustard oil",
-        "cooking_method": "Marinate the fish with turmeric and salt. Fry the fish in mustard oil. In a separate pan, heat mustard oil, add mustard paste and green chili. Add water and salt to taste. Add the fried fish and cook until the sauce thickens.",
-        "rating": 4.5
-        },
-        {
-        "recipe_name": "Paturi (Steamed Fish)",
-        "ingredients": "Fish fillets, mustard paste, green chili, turmeric, salt, banana leaf",
-        "cooking_method": "Marinate the fish with mustard paste, turmeric, salt, and green chili. Wrap the fish in a banana leaf and steam it for 10-15 minutes.",
-        "rating": 4
-        },
-        {
-        "recipe_name": "Chingri Malaikari (Prawn Coconut Curry)",
-        "ingredients": "Prawns, coconut milk, turmeric, cumin powder, coriander powder, chili powder, salt, sugar, ghee",
-        "cooking_method": "Fry the prawns in ghee. In a separate pan, heat ghee, add cumin powder, coriander powder, and chili powder. Add coconut milk, turmeric, salt, and sugar. Add the fried prawns and cook until the sauce thickens.",
-        "rating": 4.2
-        }
+            {
+                "recipe_name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Green chili",
+                    "Turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Marinate the fish with salt and turmeric. In a pan, heat oil and fry the fish until golden brown. In the same pan, fry green chili until golden brown. Add mustard paste and water. Cook until the oil separates. Add the fish and cook for a few more minutes.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Water",
+                    "Jaggery",
+                    "Coconut",
+                    "Cardamom"
+                ],
+                "cooking_method": "Mix rice flour and water to form a dough. In a separate pan, melt jaggery and add coconut and cardamom. Mix well. Form small balls from the dough and flatten them. Stuff with the jaggery mixture and seal the edges. Steam for 10-15 minutes.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Begun Bhaja",
+                "ingredients": [
+                    "Eggplant",
+                    "Turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "Cut eggplant into thin slices. Marinate with turmeric and salt. In a pan, heat oil and fry the eggplant slices until golden brown.",
+                "rating": 4.3
+            }
         ]
-        },
-        {
-            "chef_id": 6,
-            "chef_picture": "https://example.com/chef2.jpg",
-            "chef_name": "Fatema Khatun",
-            "experience": "15 years",
-            "numberOfRecipes": 4,
-            "likes": 2100,
-            "chef_bio": "Fatema Khatun is a well-known chef in Bangladesh with over 15 years of experience in cooking traditional Bangladeshi dishes. She is famous for her use of locally-sourced ingredients and traditional cooking techniques.",
-            "recipes": [
+    },
+    {
+        "chef_id": 6,
+        "chef_picture": "https://assets.bonappetit.com/photos/613a391e46535806a6463fd8/16:9/w_2000,h_1125,c_limit/Down%20North%20Pizza%20Lede%20Portrait.jpg",
+        "chef_name": "Mehdi Hasan",
+        "experience": "8 years",
+        "numberOfRecipes": 5,
+        "likes": 322,
+        "chef_bio": "Mehdi Hasan is a professional chef who has worked in various high-end restaurants.",
+        "recipes": [
             {
-            "recipe_name": "Morog Polao (Chicken Pilaf)",
-            "ingredients": "Basmati rice, chicken, onion, garlic, ginger, yogurt, green chili, bay leaf, cinnamon, cardamom, cloves, ghee, salt",
-            "cooking_method": "Fry sliced onion in ghee until golden brown. Add chicken and fry until brown. Add garlic, ginger, green chili, and spices. Add partially cooked basmati rice and yogurt. Add water and cook on low heat until the rice and chicken are fully cooked.",
-            "rating": 4.6
+                "recipe_name": "Beef Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Tomato",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Coriander",
+                    "Turmeric",
+                    "Cumin",
+                    "Chili powder",
+                    "Garam masala",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "In a pan, heat oil and fry sliced onions until golden brown. Add garlic, ginger, and green chili. Fry until fragrant. Add diced tomatoes, turmeric, cumin, chili powder, and salt. Cook until the tomatoes are soft. Add beef and cook until tender. Add garam masala and coriander. Cook for a few more minutes.",
+                "rating": 4.8
             },
             {
-            "recipe_name": "Pitha (Rice Cakes)",
-            "ingredients": "Rice flour, jaggery, coconut, cardamom, salt",
-            "cooking_method": "Mix rice flour, jaggery, grated coconut, cardamom, and salt. Make small cakes and steam them for 10-15 minutes.",
-            "rating": 4.2
+                "recipe_name": "Chingri Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric",
+                    "Chili powder",
+                    "Cumin",
+                    "Coriander",
+                    "Garam masala",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking_method": "In a pan, heat oil and fry sliced onions until golden brown. Add garlic, ginger, and green chili. Fry until fragrant. Add turmeric, chili powder, cumin, coriander, and salt. Cook until fragrant. Add coconut milk and prawns. Cook until the prawns are done. Add garam masala and coriander. Cook for a few more minutes.",
+                "rating": 4.7
+            
+                "recipe_name": "Bhapa Doi",
+                "ingredients": [
+                    "Milk",
+                    "Yogurt",
+                    "Sugar",
+                    "Cardamom",
+                    "Rose water"
+                ],
+                "cooking_method": "Boil milk ina pot until it reduces to half. Add sugar and cardamom. Mix well and let it cool down. In a separate bowl, mix yogurt and rose water. Add the cooled milk mixture and mix well. Pour the mixture into a baking dish and cover it with aluminum foil. Place the baking dish into a steamer and steam for 20-25 minutes. Once done, let it cool down and refrigerate for a few hours before serving.",
+                "rating": 4.5
             },
             {
-            "recipe_name": "Bhapa Pitha (Steamed Rice Cakes)",
-            "ingredients": "Rice flour, coconut, jaggery, salt",
-            "cooking_method": "Mix rice flour, grated coconut, jaggery, and salt. Make small cakes and steam them for 10-15 minutes.",
-            "rating": 4.4
-            },
-            {
-            "recipe_name": "Bhuna Khichuri (Spicy Lentil Rice)",
-            "ingredients": "Basmati rice, lentils, onion, garlic, ginger, green chili, cumin powder, coriander powder, chili powder, turmeric, salt, ghee",
-            "cooking_method": "Fry sliced onion in ghee until golden brown. Add lentils, garlic, ginger, green chili, and spices. Add partially cooked basmati rice and water. Cook on low heat until the rice and lentils are fully cooked.",
-            "rating": 4.8
+                "recipe_name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard seeds",
+                    "Turmeric",
+                    "Green chili",
+                    "Mustard oil",
+                    "Salt"
+                ],
+                "cooking_method": "Grind mustard seeds, turmeric, green chili, and salt into a fine paste. Marinate the Hilsa fish with the paste. In a pan, heat mustard oil and fry the fish on both sides until golden brown. Serve hot with rice.",
+                "rating": 4.8
             }
-            ]
-            }
-        
+        ]
+    }
+
 ]
